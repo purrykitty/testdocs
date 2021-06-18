@@ -1,5 +1,5 @@
 ---
-description: Well gosh eh? Spatulas.
+description: Well gosh eh?
 ---
 
 # Initial page
@@ -10,5 +10,4 @@ description: Well gosh eh? Spatulas.
 puts "oh my gosh"
 ```
 
-blah blah blah
-
+blah blah
